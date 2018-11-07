@@ -1,0 +1,22 @@
+{
+  "name": "gulp-sass-starter",
+  "version": "1.0.0",
+  "description": "This is a starter project for running sass with gulp (using sourcemaps)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/domkoscielak/gulp-sass-starter.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "gulp": "^4.0.0",
+    "gulp-sass": "^4.0.2"
+  },
+  "dependencies": {
+    "gulp-sourcemaps": "^2.6.4"
+  }
+}
